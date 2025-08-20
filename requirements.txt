@@ -24,3 +24,10 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+python-dotenv
+pypdf
+faiss-cpu

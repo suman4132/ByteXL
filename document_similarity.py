@@ -27,7 +27,6 @@ documents = [
     "The dog dug a hole in the yard.",
     "The bird flew away from the cat.",
     "The fish swam to the bottom of the pond.",
-
     "The cat caught a mouse in the garden.",
     "The dog played fetch with its owner.",
     "The bird chirped happily in the morning.",
